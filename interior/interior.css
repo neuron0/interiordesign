@@ -1,0 +1,74 @@
+.head {
+        background-color: white;
+
+}
+.head nav a{
+    display: block;
+       padding-bottom: 20px;
+       padding-top: 20px ;
+        font-family: sans-serif;
+        font-size: 15px;
+        text-decoration: none;
+        color: black;
+}
+.head h2 {
+    font-size: 60px;
+    font-family: sans-serif;
+
+}
+.image{
+    background-image: url("file:///C:/Users/personal/Desktop/interior/pic1.jpg");
+		background-repeat: no-repeat;
+        background-size: cover;
+        margin-left: 70px;
+        width: 600px;
+        height: 1200px;
+        position: relative;
+        top: -370px;
+        right: -100px;
+}
+   .interior h3 {
+                font-size: 35px;
+                font-weight: 20px;
+             font-family: sans-serif;
+}
+            .interior h1 {
+                font-size: 80px;
+                font-weight: 30px;
+            font-family: sans-serif;
+            margin-top: -40px;
+            }
+
+    .interior {
+        position: relative;
+        top:-1470px;
+        right: -850px;
+    }
+    .interior p {
+        font-family: sans-serif;
+        font-size: 15px;
+        margin-top: -40px;
+        font-weight: bold;
+    }
+    .interior input {
+        background-color: white;
+			color:red;
+			width: 250px;
+			height: 40px;
+            border-color:white;
+			margin-top: 30px;
+    }
+    .interior button {
+        background-color:red;
+			color:white;
+			width: 80px;
+            height: 40px;
+            margin-left:-5px;
+            border-color: white;
+            
+
+    }
+    .interior video{
+        margin-top: 30px;
+        width: 200px;
+    }
